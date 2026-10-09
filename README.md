@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer at **The Mind Gauge**.
+- 💼 Frontend Developer at **The Mind Gauge** since June 2025.
 - 🌐 Building and maintaining production web applications and booking workflows.
 - 🎨 Focused on responsive UI development, reusable components, and accurate Figma-to-code implementation.
 - 🔌 Experienced in REST API integration and API-driven interfaces.
@@ -67,15 +67,22 @@
 
 ### [Feriendeals.ch](https://www.feriendeals.ch/) — Hotel Booking Platform
 
-A production travel platform where users can search destinations, compare hotels, check room availability, choose room options, and complete bookings.
+A production travel platform where users can search destinations, compare hotels, view property details, check room availability, choose room and board options, complete bookings, and access booking details and vouchers.
 
 My work includes:
 
 - Building responsive booking interfaces from Figma designs.
-- Integrating frontend flows with hotel inventory and pricing APIs from **TravelgateX** and **RateHawk**.
+- Working with backend developers to connect frontend booking flows to availability, pricing, and booking data from **TravelgateX** and **RateHawk**.
 - Handling API-driven UI states and booking data.
-- Supporting Stripe payment flows and frontend error states.
-- Improving page performance and reusable UI consistency.
+- Supporting Stripe payment flows and handling frontend failure states such as declined cards, expired cards, and insufficient funds; validating these flows in the Stripe sandbox.
+- Improving page performance and reusable UI consistency across complex application screens.
+
+## 💼 Experience Highlights
+
+- Build responsive interfaces with React, Next.js, JavaScript, TypeScript, HTML, CSS, and Bootstrap using reusable components.
+- Work directly with PHP and CodeIgniter when frontend requirements involve API changes, backend debugging, or data handling.
+- Improve frontend performance through WebP conversion, image compression, CSS/JS minification, and reducing unnecessary client-side work.
+- Improved Lighthouse/PageSpeed scores from the **30–40 range to 80–90** across multiple WordPress sites through targeted optimization.
 
 ## 🎯 Engineering Approach
 
@@ -86,6 +93,11 @@ I aim to build interfaces that are:
 - **Maintainable** — structured with reusable components.
 - **Practical** — focused on solving real user and business problems.
 - **Performance-conscious** — optimized without adding unnecessary complexity.
+
+## 🎓 Education & Certification
+
+- **BS in Information Technology**, MNS University of Agriculture, Multan (2021–2025).
+- **Programming with JavaScript**, Coursera (2023).
 
 ## 📫 Let's Connect
 
